@@ -1,0 +1,9 @@
+{
+  "name": "sadik-terzi",
+  "version": "1.0.0",
+  "description": "Sadık Terzi - Profesyonel Terzilik Hizmetleri",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
