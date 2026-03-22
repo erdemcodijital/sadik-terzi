@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sadik-terzi.vercel.app/sitemap.xml
